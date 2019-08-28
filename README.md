@@ -27,7 +27,7 @@ A step by step series of examples that tell you how to get a development env run
 4.Enter the values in the GUI to get current weather
 ```
 <p align="center">
-  <img width="460" height="300" src="Runable Jar/Apppic.png">
+  <img width="1000" height="500" src="Runable Jar/Apppic.png">
 </p>
 
 ## Built With
